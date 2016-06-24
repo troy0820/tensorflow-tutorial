@@ -2,4 +2,4 @@
 .env
 MNIST_data
 pip-selfcheck.json
-
+.Python
