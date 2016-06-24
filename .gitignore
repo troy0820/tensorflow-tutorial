@@ -1,0 +1,5 @@
+.DS_Store
+.env
+MNIST_data
+pip-selfcheck.json
+
