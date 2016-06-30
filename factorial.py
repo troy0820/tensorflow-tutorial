@@ -13,4 +13,4 @@ else:
 
 y = factorial(x)
 
-print('Factorial of 5 is {answer}'.format(answer=y))
+print('Factorial of {x} is {answer}'.format(x=x, answer=y))
