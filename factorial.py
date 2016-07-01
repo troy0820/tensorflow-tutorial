@@ -7,7 +7,7 @@ def factorial(number):
 	return number * factorial(number - 1)
 
 def printstuff(message):
-    print'This is the printed message: ' + message
+    print'This is the printed message: \n' + message
 
 if (len(sys.argv) > 1):
     x = int(sys.argv[1])
